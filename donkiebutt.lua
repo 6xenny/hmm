@@ -6,7 +6,7 @@ local UpdateList = {
     ["2024-12-23T12:11:35.64Z"] = true -- Brawl
   },
   Planks = {
-    [2025-01-02T03:58:20.176346Z] = true
+    ["2025-01-02T03:58:20.176346Z"] = true
   }
 }
 return UpdateList

@@ -6,5 +6,6 @@ local Sounds = {
 	["phonk.wav"] = "https://github.com/6xenny/hmm/raw/refs/heads/main/Hit%20Sounds/phonk.wav",
 	["bonk.wav"] = "https://github.com/6xenny/hmm/raw/refs/heads/main/Hit%20Sounds/bonk.wav",
 	["pluh.wav"] = "https://github.com/6xenny/hmm/raw/refs/heads/main/Hit%20Sounds/pluh.wav",
+	["sparkle.wav"] = "https://github.com/6xenny/hmm/raw/refs/heads/main/Hit%20Sounds/sparkle.wav",
 }
 return Sounds
